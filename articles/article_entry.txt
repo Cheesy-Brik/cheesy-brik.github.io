@@ -1,0 +1,6 @@
+{
+    "filename": "template-article.html",
+    "title": "TEMPLATE ARTICLE",
+    "date": "202#-##-##",
+    "author": "Ryan Lowe"
+}
